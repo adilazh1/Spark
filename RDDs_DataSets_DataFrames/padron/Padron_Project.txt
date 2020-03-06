@@ -1,0 +1,17 @@
+****************************************************************************
+Date: 2020/03/06
+Author: adilazh1
+****************************************************************************
+In this exercise some statistics are made on the padron.csv file using RDDs, DataSets and DataFrames. 
+In order to show the differences between them. 
+
+In the 1CPU and 2CPU folders you can find the test result output with 1 and 2 CPUs respectively.
+
+The tests have been performed using:
+  --vm cloudera quickstart 5.5.0 
+  --scala version 2.12.10 
+  --Spark version 2.2.4
+
+Feel free to download this Maven project and practive with. For new data check 
+open data Madrid https://datos.madrid.es/portal/site/egob/
+
