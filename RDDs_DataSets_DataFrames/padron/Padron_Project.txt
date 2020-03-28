@@ -12,6 +12,6 @@ The tests have been performed using:
   --scala version 2.12.10 
   --Spark version 2.2.4
 
-Feel free to download this Maven project and practive with. For new data check 
+Feel free to download this Maven project and practice with. For new data check 
 open data Madrid https://datos.madrid.es/portal/site/egob/
 
