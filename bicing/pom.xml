@@ -55,23 +55,6 @@
     </dependency>
 
 
-
-    <!--    <dependency>-->
-<!--      <groupId>org.apache.hive</groupId>-->
-<!--      <artifactId>hive-common</artifactId>-->
-<!--      <version>3.1.2</version>-->
-<!--    </dependency>-->
-
-<!--    <dependency>-->
-<!--      <groupId>org.specs</groupId>-->
-<!--      <artifactId>specs</artifactId>-->
-<!--      <version>1.4.3</version>-->
-<!--      <scope>test</scope>-->
-<!--    </dependency>-->
-
-
-
-
   </dependencies>
 
   <build>
